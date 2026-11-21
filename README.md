@@ -57,9 +57,9 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kingemon420&theme=tokyonight&no-frame=true&margin-w=6&row=2&column=4)
+![Trophies](https://github-trophies.vercel.app/?username=kingemon420&theme=tokyonight&no-frame=true&margin-w=6&row=2&column=4)
 
-![Trophies Gold](https://github-profile-trophy.vercel.app/?username=kingemon420&theme=gruvbox&no-frame=true&margin-w=6&row=2&column=4)
+![Trophies Gold](https://github-trophies.vercel.app/?username=kingemon420&theme=gruvbox&no-frame=true&margin-w=6&row=2&column=4)
 
 </div>
 
