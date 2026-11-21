@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/142968778?v=4" width="150" style="border-radius:50%" alt="Emon">
+
 # Hi, I'm Emon 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Always+learning%2C+always+building)](https://git.io/typing-svg)
